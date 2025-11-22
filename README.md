@@ -39,7 +39,7 @@ mkdir build
 cd build
 
 # Configure with CMake
-cmake -DCMAKE_BUILD_TYPE=Release ..
+cmake ..
 
 # Build the project
-cmake --build . --config Release
+cmake --build . --config Debug
