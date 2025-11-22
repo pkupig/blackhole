@@ -21,7 +21,7 @@ A real-time 3D visualization of black hole accretion disk physics with advanced 
 
 ## Requirements
 
-- **Operating System**: Windows, Linux, or macOS
+- **Operating System**: Windows, Linux, or macOS, on Visual Studio.
 - **Graphics**: OpenGL 3.3+ compatible GPU
 - **Libraries**:
   - GLFW 3.0+
